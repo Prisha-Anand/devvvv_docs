@@ -481,6 +481,6 @@ def _prepare_staging(**context):
     *   `ti = context['ti']`: Gets the `TaskInstance` object from the Airflow context.
     *   Uses `ti.xcom_pull
 ## UML Diagram
-![Image](images/anotherDAG_after_img1.png)
+![Image](anotherDAG_after_img1.png)
 ## DAG FLOW
-![Image](images/anotherDAG_after_img2.png)
+![Image](anotherDAG_after_img2.png)
